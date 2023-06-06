@@ -9,7 +9,7 @@ tags:
   - DataBase
   - MySQL
 description: "In this blog post, I outline a step-by-step guide to help you reset the password for your local MySQL server. By following these instructions, you can regain access to your server and avoid the frustration of forgetting your password in the future."
-ogTitle: How to change password of your local mysql server ? MacOs
+ogImage: ""
 ---
 
 **First step:** Stop the mysql server if it is running
