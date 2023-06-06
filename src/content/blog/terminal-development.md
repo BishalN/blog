@@ -1,5 +1,5 @@
 ---
-title: How to change password of your local mysql server ? MacOs
+title: How to change password of your local mysql server macOs
 author: Bishal Neupane
 pubDatetime: 2023-06-06T11:57:07.508Z # new Date().toISOString()
 postSlug: how-to-change-password-of-your-local-mysql-server-macos
